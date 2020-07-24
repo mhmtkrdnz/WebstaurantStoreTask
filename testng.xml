@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebstaurantStore">
+    <test name="Search Test">
+        <classes>
+            <class name="com.automation.tests.SearchProductTest"/>
+        </classes>
+    </test>
+</suite>
